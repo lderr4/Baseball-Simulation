@@ -1,0 +1,32 @@
+how to estimate salary of a player in fa
+taking cap space into account
+luxury tax
+rule 5 draft
+40 man roster and 26 man roster
+signing bonuses and opt out options
+
+the amount teams spend on free agents is determined by how well the team does
+
+dealing with players that werent assigned contracts
+dealing with players that did have contracts but did not play (cespedes)
+
+breakout players
+
+randomness of seasons ()
+
+injuries
+
+
+predicting flyball/groundballrate
+
+external things that affect performance:
+confidence
+age
+pitcher faced
+all star run
+playoff run
+mvp run
+playoff hunt
+
+
+
